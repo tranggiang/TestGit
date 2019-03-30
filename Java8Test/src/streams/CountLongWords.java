@@ -35,6 +35,6 @@ public class CountLongWords
       
       List<String> colectors = words.stream().filter(w -> w.length() > 12).collect(Collectors.toList());
       System.out.println("word leng > 12 "  +  colectors.toString());
-       System.out.println("word leng > 12 "  +  colectors.toString());
+       System.out.println("this from user 1 commited ");
    }
 }
