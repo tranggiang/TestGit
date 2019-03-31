@@ -37,7 +37,7 @@ public class CountLongWords
       System.out.println("word leng > 12 "  +  colectors.toString());
 
 	    System.out.println("this word form user2 " );
-	       System.out.println("this word form master " );
+	       System.out.println("change form master " );
 
 
    }
